@@ -52,4 +52,4 @@ async def status_task():
 		await bot.change_presence(activity=discord.Game("made by GC | The RedCrafter and T-Phase | GLaDOS"), status=discord.Status.online)
 		await asyncio.sleep(15)
 ###################################
-bot.run("ODM5NDM2NDE4ODQ5NDM5NzQ0.YJJoFg.fHJAhcps7_UUXyeYtKgfV6vK8Qw")
+bot.run("#ZESURED#")
